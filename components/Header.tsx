@@ -5,7 +5,7 @@ export default function Header() {
     <header className="bg-gray-800 shadow-md sticky top-0 z-50">
   <div className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
     <Link href="/" className="text-2xl font-bold text-blue-400 hover:text-blue-300">
-      AutomaticSummary - Beta
+      SummaryAI - Beta
     </Link>
     <nav className="space-x-4">
       <Link href="/" className="text-gray-300 hover:text-white transition">Início</Link>
